@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/442c55c1-a8ed-453a-b3f0-dc48a9bd38f0)
+
 # **`LSTM`**
 ![image](https://github.com/user-attachments/assets/e24af195-ebe7-44c3-af92-e52ce67c92fc)
 
